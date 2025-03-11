@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Abo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.Yndanur {
+    height: 420px;
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#kapuyt1 {
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img {
+    height: 130px;
+    width: 200px;
+    padding: 5px;
+}
+
+.text{
+	padding: 10px;
+	color: white;
+}
+
+
+#karmir1 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin-left: 5px;
+}
+
+#kapuyt2 {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+#karmir2 {
+    height: 200px;
+    width: 400px;
+    background-color: red;
+}
+
